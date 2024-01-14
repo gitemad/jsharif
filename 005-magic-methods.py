@@ -36,6 +36,8 @@ class Point:
     def __bool__(self):
         return self.x != 0 or self.y != 0
 
+
+
 # p1 = Point(2, 3)
 # p2 = Point(2, 3)
 # print(id(p1))
