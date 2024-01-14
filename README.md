@@ -1,1 +1,1 @@
-This is a repository for Jahad Sharif backend course
+This is a repository for Jahad Sharif backend course.
