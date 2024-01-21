@@ -8,10 +8,10 @@ def odds(max):
 for i in odds(10):
     print(i)
 
-# gen = odds(10)
+gen = odds(10)
 
-# print(next(gen))
-# print(next(gen))
-# print(next(gen))
-# print(next(gen))
-# print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
